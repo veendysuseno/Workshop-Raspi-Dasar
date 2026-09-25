@@ -121,15 +121,15 @@ Electronic Component Control
 
 Setelah menyelesaikan workshop, peserta diharapkan dapat:
 
-### Mengenali komponen dan fungsi dasar Raspberry Pi 3.
-### Memahami Raspberry Pi OS dan sistem operasi Linux.
-### Menggunakan terminal Linux untuk menjalankan perintah dasar.
-### Mengakses Raspberry Pi menggunakan SSH dan VNC.
-### Melakukan manajemen file dan direktori.
-### Memahami dasar-dasar pemrograman Python.
-### Menggunakan kondisi, perulangan, dan operator logika dalam Python.
-### Memahami dan menggunakan GPIO Raspberry Pi 3.
-### Mengendalikan komponen elektronika menggunakan Python.
+### 1. Mengenali komponen dan fungsi dasar Raspberry Pi 3.
+### 2. Memahami Raspberry Pi OS dan sistem operasi Linux.
+### 3. Menggunakan terminal Linux untuk menjalankan perintah dasar.
+### 4. Mengakses Raspberry Pi menggunakan SSH dan VNC.
+### 5. Melakukan manajemen file dan direktori.
+### 6. Memahami dasar-dasar pemrograman Python.
+### 7. Menggunakan kondisi, perulangan, dan operator logika dalam Python.
+### 8. Memahami dan menggunakan GPIO Raspberry Pi 3.
+### 9. Mengendalikan komponen elektronika menggunakan Python.
 
 # 📌 Workshop Information
 1. Item	Description
